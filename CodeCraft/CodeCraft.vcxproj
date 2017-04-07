@@ -142,9 +142,6 @@
     <ClInclude Include="lib_time.h" />
     <ClInclude Include="SmallestCostFlow.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
